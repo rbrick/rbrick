@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=rbrick&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrick)
+
+![](https://github-profile-trophy.vercel.app/?username=rbrick)
